@@ -41,7 +41,7 @@ $functions = array(
 $services = array(
         'IntelliBoard service' => array(
                 'functions' => array ('local_intelliboard_database_query'),
-                'restrictedusers' => 0,
+                'restrictedusers' => 1,
                 'enabled'=>1,
         )
 );
